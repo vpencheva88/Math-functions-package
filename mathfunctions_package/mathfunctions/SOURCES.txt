@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+mathfunctions_package.egg-info/PKG-INFO
+mathfunctions_package.egg-info/SOURCES.txt
+mathfunctions_package.egg-info/dependency_links.txt
+mathfunctions_package.egg-info/requires.txt
+mathfunctions_package.egg-info/top_level.txt

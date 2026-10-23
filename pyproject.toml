@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mathfunctions"
+version = "0.1.0"
+description = "A small package producing different math functions"
+requires-python = ">=3.8"
+dependencies = [
+    "numpy",
+    "matplotlib"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["mathfunctions*"]
+
+
+[tool.setuptools.package-data]
+mathfunctions_package = ["data/*.csv"]

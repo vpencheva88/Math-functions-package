@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+mathfunctions_package/__init__.py
+mathfunctions_package/calculus.py
+mathfunctions_package/functions.py
+mathfunctions_package/probability.py
+mathfunctions_package.egg-info/PKG-INFO
+mathfunctions_package.egg-info/SOURCES.txt
+mathfunctions_package.egg-info/dependency_links.txt
+mathfunctions_package.egg-info/requires.txt
+mathfunctions_package.egg-info/top_level.txt
+mathfunctions_package/demo/demo.01.py
+mathfunctions_package/demo/errors_demo.py
+mathfunctions_package/demo/examples.py
